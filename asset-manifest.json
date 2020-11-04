@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/music/static/css/main.90d5ae9b.chunk.css",
+    "main.js": "/music/static/js/main.1b1c8158.chunk.js",
+    "main.js.map": "/music/static/js/main.1b1c8158.chunk.js.map",
+    "runtime-main.js": "/music/static/js/runtime-main.4e6bcc98.js",
+    "runtime-main.js.map": "/music/static/js/runtime-main.4e6bcc98.js.map",
+    "static/js/2.33ee9b58.chunk.js": "/music/static/js/2.33ee9b58.chunk.js",
+    "static/js/2.33ee9b58.chunk.js.map": "/music/static/js/2.33ee9b58.chunk.js.map",
+    "static/js/3.9838d6fd.chunk.js": "/music/static/js/3.9838d6fd.chunk.js",
+    "static/js/3.9838d6fd.chunk.js.map": "/music/static/js/3.9838d6fd.chunk.js.map",
+    "index.html": "/music/index.html",
+    "static/css/main.90d5ae9b.chunk.css.map": "/music/static/css/main.90d5ae9b.chunk.css.map",
+    "static/js/2.33ee9b58.chunk.js.LICENSE.txt": "/music/static/js/2.33ee9b58.chunk.js.LICENSE.txt",
+    "static/media/aki.078520c6.jpeg": "/music/static/media/aki.078520c6.jpeg",
+    "static/media/logo.103b5fa1.svg": "/music/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e6bcc98.js",
+    "static/js/2.33ee9b58.chunk.js",
+    "static/css/main.90d5ae9b.chunk.css",
+    "static/js/main.1b1c8158.chunk.js"
+  ]
+}
